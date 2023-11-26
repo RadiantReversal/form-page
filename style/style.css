@@ -1,9 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;600&display=swap");
 * {
-  margin: 0;
+  font-family: "Red Hat Display", sans-serif;
 }
 
 body {
-  background-color: #FF6392;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='2560' height='2048' preserveAspectRatio='none' viewBox='0 0 2560 2048'%3e%3cg clip-path='url(%26quot%3b%23SvgjsClipPath11947%26quot%3b)' fill='none'%3e%3crect width='2560' height='2048' x='0' y='0' fill='url(%26quot%3b%23SvgjsLinearGradient11948%26quot%3b)'%3e%3c/rect%3e%3ccircle r='204.545' cx='913.07' cy='1900.35' fill='url(%26quot%3b%23SvgjsLinearGradient11949%26quot%3b)'%3e%3c/circle%3e%3ccircle r='64.29' cx='946.31' cy='781.16' fill='url(%26quot%3b%23SvgjsLinearGradient11950%26quot%3b)'%3e%3c/circle%3e%3ccircle r='170.925' cx='347.68' cy='383.4' fill='url(%26quot%3b%23SvgjsLinearGradient11951%26quot%3b)'%3e%3c/circle%3e%3ccircle r='145.975' cx='2067.48' cy='1430.37' fill='url(%26quot%3b%23SvgjsLinearGradient11952%26quot%3b)'%3e%3c/circle%3e%3ccircle r='114.66' cx='147.71' cy='1938.52' fill='url(%26quot%3b%23SvgjsLinearGradient11953%26quot%3b)'%3e%3c/circle%3e%3ccircle r='125.235' cx='1759.28' cy='374.65' fill='url(%26quot%3b%23SvgjsLinearGradient11954%26quot%3b)'%3e%3c/circle%3e%3ccircle r='114.715' cx='1437' cy='558.64' fill='url(%26quot%3b%23SvgjsLinearGradient11955%26quot%3b)'%3e%3c/circle%3e%3ccircle r='180.73' cx='1265.33' cy='1309.29' fill='url(%26quot%3b%23SvgjsLinearGradient11956%26quot%3b)'%3e%3c/circle%3e%3ccircle r='172.115' cx='2297.61' cy='1316.64' fill='url(%26quot%3b%23SvgjsLinearGradient11957%26quot%3b)'%3e%3c/circle%3e%3ccircle r='119.79' cx='424.75' cy='1835.55' fill='url(%26quot%3b%23SvgjsLinearGradient11958%26quot%3b)'%3e%3c/circle%3e%3ccircle r='110.095' cx='702.9' cy='616.6' fill='url(%26quot%3b%23SvgjsLinearGradient11959%26quot%3b)'%3e%3c/circle%3e%3ccircle r='123.02' cx='2507.44' cy='1297.92' fill='url(%26quot%3b%23SvgjsLinearGradient11960%26quot%3b)'%3e%3c/circle%3e%3c/g%3e%3cdefs%3e%3cclipPath id='SvgjsClipPath11947'%3e%3crect width='2560' height='2048' x='0' y='0'%3e%3c/rect%3e%3c/clipPath%3e%3clinearGradient x1='5%25' y1='-6.25%25' x2='95%25' y2='106.25%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient11948'%3e%3cstop stop-color='rgba(26%2c 0%2c 75%2c 1)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(48%2c 0%2c 29%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='1322.16' y1='2309.44' x2='503.9800000000001' y2='1491.26' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient11949'%3e%3cstop stop-color='rgba(245%2c 61%2c 134%2c 1)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(42%2c 24%2c 233%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='1074.8899999999999' y1='909.74' x2='817.7299999999999' y2='652.5799999999999' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient11950'%3e%3cstop stop-color='rgba(245%2c 61%2c 134%2c 1)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(42%2c 24%2c 233%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='689.53' y1='725.25' x2='5.829999999999984' y2='41.549999999999955' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient11951'%3e%3cstop stop-color='rgba(245%2c 61%2c 134%2c 1)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(42%2c 24%2c 233%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='2359.43' y1='1722.3199999999997' x2='1775.53' y2='1138.4199999999998' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient11952'%3e%3cstop stop-color='rgba(245%2c 61%2c 134%2c 1)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(42%2c 24%2c 233%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='377.03' y1='2167.84' x2='-81.60999999999999' y2='1709.2' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient11953'%3e%3cstop stop-color='rgba(245%2c 61%2c 134%2c 1)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(42%2c 24%2c 233%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='2009.75' y1='625.12' x2='1508.81' y2='124.17999999999998' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient11954'%3e%3cstop stop-color='rgba(245%2c 61%2c 134%2c 1)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(42%2c 24%2c 233%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='1666.4299999999998' y1='788.0699999999999' x2='1207.57' y2='329.21' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient11955'%3e%3cstop stop-color='rgba(245%2c 61%2c 134%2c 1)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(42%2c 24%2c 233%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='1626.79' y1='1670.75' x2='903.8699999999999' y2='947.8299999999999' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient11956'%3e%3cstop stop-color='rgba(245%2c 61%2c 134%2c 1)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(42%2c 24%2c 233%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='2641.84' y1='1660.8700000000001' x2='1953.38' y2='972.4100000000001' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient11957'%3e%3cstop stop-color='rgba(245%2c 61%2c 134%2c 1)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(42%2c 24%2c 233%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='664.33' y1='2075.13' x2='185.17' y2='1595.97' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient11958'%3e%3cstop stop-color='rgba(245%2c 61%2c 134%2c 1)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(42%2c 24%2c 233%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='923.0899999999999' y1='836.79' x2='482.71' y2='396.41' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient11959'%3e%3cstop stop-color='rgba(245%2c 61%2c 134%2c 1)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(42%2c 24%2c 233%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='2753.48' y1='1543.96' x2='2261.4' y2='1051.88' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient11960'%3e%3cstop stop-color='rgba(245%2c 61%2c 134%2c 1)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(42%2c 24%2c 233%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: top, center;
 }
 
 .card {
@@ -11,18 +14,76 @@ body {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  display: flex;
-  flex-direction: column;
 }
-
-form {
-  width: 350px;
+.card form {
+  width: 300px;
   height: 500px;
-  background-color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  background-color: hsla(0, 0%, 100%, 0.15);
+  gap: 10px;
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+  box-shadow: 1px 1px 3px 0px hsla(0, 0%, 0%, 0.25);
+  border-radius: 4px;
+}
+.card form input {
+  width: 237px;
+  height: 50px;
+  border: none;
+  outline-style: none;
+  background-color: hsla(0, 0%, 100%, 0.3);
+  box-shadow: 0px 2px 7px 0px hsla(0, 0%, 0%, 0.2118);
+  border-radius: 4px;
+  color: white;
+  text-align: center;
+  font-size: 0.9em;
+}
+.card form input:active {
+  color: white;
+}
+.card form input::-moz-placeholder {
+  color: white;
+}
+.card form input::placeholder {
+  color: white;
+}
+.card form .submit {
+  background-color: #6338ef;
+  font-weight: 600;
+}
+.card form .submit:hover {
+  background-color: #9074eb;
+  cursor: pointer;
+}
+.card form textarea {
+  resize: none;
+  width: 237px;
+  border: none;
+  outline-style: none;
+  background-color: hsla(0, 0%, 100%, 0.3);
+  box-shadow: 0px 2px 7px 0px hsla(0, 0%, 0%, 0.2118);
+  border-radius: 4px;
+  text-align: center;
+  font-size: 0.9em;
+  color: white;
+}
+.card form textarea:focus {
+  color: white;
+}
+.card form textarea:active {
+  color: white;
+}
+.card form textarea::-moz-placeholder {
+  color: white;
+}
+.card form textarea::placeholder {
+  color: white;
+}
+.card form h1 {
+  color: white;
 }
 
 .label-hide {
@@ -34,4 +95,47 @@ form {
   overflow: hidden;
   clip: rect(0, 0, 0, 0);
   border: 0;
+}
+
+.circle {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 50px;
+  height: 50px;
+  background-color: hsla(0, 0%, 100%, 0.15);
+  transform: translate(-50%, -50%);
+  box-shadow: 1px 1px 3px 0px hsla(0, 0%, 0%, 0.25);
+  border-radius: 4px;
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+}
+
+.circle-2 {
+  position: absolute;
+  right: -15%;
+  width: 50px;
+  height: 50px;
+  background-color: hsla(0, 0%, 100%, 0.15);
+  transform: translate(-50%, -50%);
+  z-index: -1;
+  box-shadow: 1px 1px 3px 0px hsla(0, 0%, 0%, 0.25);
+  border-radius: 4px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  color: white;
+  transform: translate(-50%, -50%);
+  font-size: smaller;
+}
+footer a {
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+}
+footer a:hover {
+  color: #6338ef;
 }
